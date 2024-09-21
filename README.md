@@ -1,6 +1,6 @@
 # flutter-generator
 
-Recipe App Generator written and tested natively with on Flutter using Dart.
+Recipe App Generator written and tested natively with Flutter using Dart.
 
 
 **Project File Structure**:

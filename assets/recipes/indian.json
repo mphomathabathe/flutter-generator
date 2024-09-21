@@ -1,0 +1,387 @@
+{
+    "recipes": [
+      {
+        "name": "Masaledar Sem (Spicy Green Beans)",
+        "ingredients": [
+          { "quantity": "1.5 lb", "ingredient": "Green beans" },
+          { "quantity": "1.5-inch piece", "ingredient": "Fresh ginger" },
+          { "quantity": "10 cloves", "ingredient": "Garlic" },
+          { "quantity": "1 cup", "ingredient": "Water" },
+          { "quantity": "4 tablespoons", "ingredient": "Vegetable oil" },
+          { "quantity": "3 teaspoons", "ingredient": "Whole cumin seeds" },
+          { "quantity": "2 teaspoons", "ingredient": "Ground coriander seeds" },
+          { "quantity": "2 medium", "ingredient": "Tomatoes" },
+          { "quantity": "to taste", "ingredient": "Salt" },
+          { "quantity": "to taste", "ingredient": "Freshly ground pepper" },
+          { "quantity": "3 tablespoons", "ingredient": "Lemon juice" }
+        ],
+        "method": [
+          "Blend ginger and garlic with 1/2 cup of water until smooth.",
+          "Heat oil in a saucepan, add cumin seeds, and stir for half a minute.",
+          "Add the ginger-garlic paste and cook for about two minutes.",
+          "Add the coriander and stir a few times.",
+          "Add chopped tomatoes, stir and cook for 2 minutes.",
+          "Add beans, salt, and one cup of water. Simmer.",
+          "Cover and cook for 8-10 minutes until beans are tender.",
+          "Add lemon juice and freshly ground pepper.",
+          "Turn up the heat to boil away the remaining liquid."
+        ]
+      },
+      {
+        "name": "Vegetable Kurma",
+        "ingredients": [
+          { "quantity": "2 cups", "ingredient": "Vegetables" },
+          { "quantity": "2", "ingredient": "Onions" },
+          { "quantity": "2", "ingredient": "Green chilies" },
+          { "quantity": "1 teaspoon", "ingredient": "Coriander powder" },
+          { "quantity": "1.25 teaspoon", "ingredient": "Salt" },
+          { "quantity": "1 pinch", "ingredient": "Turmeric powder" },
+          { "quantity": "1/2 inch stick", "ingredient": "Cinnamon" },
+          { "quantity": "2", "ingredient": "Cloves" },
+          { "quantity": "2", "ingredient": "Cardamom" },
+          { "quantity": "2 tablespoons", "ingredient": "Coconut powder" },
+          { "quantity": "1 teaspoon", "ingredient": "Khus-Khus (poppy seeds)" },
+          { "quantity": "1/4 teaspoon", "ingredient": "Garlic" },
+          { "quantity": "1/4 teaspoon", "ingredient": "Ginger powder" }
+        ],
+        "method": [
+          "Heat oil in a vessel and fry cinnamon, cloves, and cardamom for 2-3 minutes.",
+          "Add onions and green chilies and fry until onions turn brown.",
+          "Add garlic and ginger paste, fry for a minute.",
+          "Add vegetables and fry for about 3 minutes.",
+          "Add water and cook the vegetables with turmeric powder.",
+          "Add coconut paste, khus-khus, and salt. Cook on low heat until done."
+        ]
+      },
+      {
+        "name": "Vegetable Curry",
+        "ingredients": [
+          { "quantity": "1 cup", "ingredient": "Vegetables" },
+          { "quantity": "1/4 - 1/2 teaspoon", "ingredient": "Coriander powder" },
+          { "quantity": "1/8 - 1/4 teaspoon", "ingredient": "Chili powder" },
+          { "quantity": "1/8 - 1/4 teaspoon", "ingredient": "Garlic powder" },
+          { "quantity": "1 teaspoon", "ingredient": "Salt" },
+          { "quantity": "1 large", "ingredient": "Onion" },
+          { "quantity": "1/4 - 1/2 teaspoon", "ingredient": "Mustard seeds" },
+          { "quantity": "1/8 teaspoon", "ingredient": "Urad Dal" },
+          { "quantity": "1/4 - 1/2 cup", "ingredient": "Crushed tomatoes" }
+        ],
+        "method": [
+          "Mix garlic, coriander, chili powder, and salt. Set aside.",
+          "Heat oil in a pan, add mustard seeds and urad dal. Let mustard seeds split.",
+          "Add onions and fry until brown.",
+          "Add vegetables, spice mixture, and crushed tomatoes.",
+          "Cook for 5 minutes if using canned vegetables. Otherwise, cover and cook for 10-15 minutes."
+        ]
+      },
+      {
+        "name": "Green Pepper Curry",
+        "ingredients": [
+          { "quantity": "2 large", "ingredient": "Green Peppers" },
+          { "quantity": "1/4 teaspoon", "ingredient": "Chili powder" },
+          { "quantity": "1/8 teaspoon", "ingredient": "Turmeric powder" },
+          { "quantity": "1/2 teaspoon", "ingredient": "Dhania powder" },
+          { "quantity": "1 tablespoon", "ingredient": "Coconut flakes" },
+          { "quantity": "1 teaspoon", "ingredient": "Khus Khus (poppy seeds)" },
+          { "quantity": "1 small bunch", "ingredient": "Fresh Coriander leaves" },
+          { "quantity": "2 small", "ingredient": "Tomatoes" },
+          { "quantity": "2", "ingredient": "Onions" },
+          { "quantity": "2 tablespoons", "ingredient": "Oil" },
+          { "quantity": "1 small piece", "ingredient": "Vadiuma" },
+          { "quantity": "1 1/4 teaspoon", "ingredient": "Salt" }
+        ],
+        "method": [
+          "Cut the green peppers, onion, and tomatoes lengthwise.",
+          "Grind chili powder, turmeric, dhania powder, coconut, and poppy seeds.",
+          "Heat oil, add vadium, and fry until brown.",
+          "Add onions and fry for 4 minutes.",
+          "Add tomatoes and fry for 2 minutes.",
+          "Add green pepper and masala. Cook on low heat for around 15 minutes."
+        ]
+      },
+      {
+        "name": "Dry Potatoes (Sookha Aloo)",
+        "ingredients": [
+          { "quantity": "4 medium", "ingredient": "Potatoes" },
+          { "quantity": "2 teaspoons", "ingredient": "Cumin seeds" },
+          { "quantity": "1 teaspoon", "ingredient": "Salt" },
+          { "quantity": "2 teaspoons", "ingredient": "Mango powder" },
+          { "quantity": "1/4 teaspoon", "ingredient": "Hot pepper" },
+          { "quantity": "2 teaspoons", "ingredient": "Garam Masala" },
+          { "quantity": "Oil", "ingredient": "(to fill pan to 2 inches)" }
+        ],
+        "method": [
+          "Boil potatoes until cooked but not overdone. Peel and cut into 1/2-inch cubes.",
+          "Heat oil very hot, add and brown cumin seeds.",
+          "Add potatoes and fry until golden brown.",
+          "Add the remaining spices and fry for 3-4 minutes."
+        ]
+      },
+      {
+        "name": "Curried Mushrooms",
+        "ingredients": [
+          { "quantity": "1/2 lb", "ingredient": "Mushrooms" },
+          { "quantity": "1 large", "ingredient": "Onion" },
+          { "quantity": "1/4 teaspoon", "ingredient": "Turmeric" },
+          { "quantity": "to taste", "ingredient": "Salt" },
+          { "quantity": "to taste", "ingredient": "Chili" },
+          { "quantity": "2 large", "ingredient": "Tomatoes" },
+          { "quantity": "Oil", "ingredient": "for frying" }
+        ],
+        "method": [
+          "Wash and finely slice mushrooms. Slice onion finely.",
+          "Heat oil, add turmeric and onions. Fry until soft.",
+          "Add the sliced tomatoes and cook for 3 minutes, stirring all the time.",
+          "Add the mushrooms, cover, and simmer for 15-20 minutes.",
+          "Remove cover and dry out all the water.",
+          "Serve hot."
+        ]
+      },
+      {
+        "name": "Okra (Bhindi)",
+        "ingredients": [
+          { "quantity": "1 lb", "ingredient": "Okra" },
+          { "quantity": "2 small", "ingredient": "Onions" },
+          { "quantity": "2 small", "ingredient": "Tomatoes" },
+          { "quantity": "1/4 teaspoon", "ingredient": "Turmeric" },
+          { "quantity": "to taste", "ingredient": "Salt" },
+          { "quantity": "to taste", "ingredient": "Red pepper" },
+          { "quantity": "Oil", "ingredient": "for frying" }
+        ],
+        "method": [
+          "Wash the okra and dry it thoroughly.",
+          "Cut off the heads and cut into small circles.",
+          "Chop the onions and tomatoes separately.",
+          "Deep fry the okra until very brown.",
+          "Remove from heat and set aside. Pour out some oil.",
+          "Add turmeric to hot oil. Add the onions and fry until golden brown.",
+          "Add the fried okra, salt, pepper, and tomatoes.",
+          "Cover and bake at 250°F for 15 minutes."
+        ]
+      },
+      {
+        "name": "Cauliflower and Potatoes (Aloo Gobi)",
+        "ingredients": [
+          { "quantity": "1 medium", "ingredient": "Cauliflower" },
+          { "quantity": "2 medium", "ingredient": "Potatoes" },
+          { "quantity": "1", "ingredient": "Onion" },
+          { "quantity": "1", "ingredient": "Tomato" },
+          { "quantity": "1 clove", "ingredient": "Garlic" },
+          { "quantity": "1 inch", "ingredient": "Ginger" },
+          { "quantity": "pinch", "ingredient": "Turmeric" },
+          { "quantity": "to taste", "ingredient": "Salt" },
+          { "quantity": "to taste", "ingredient": "Pepper" },
+          { "quantity": "to taste", "ingredient": "Garam Masala" }
+        ],
+        "method": [
+          "Make masala with onion, garlic, ginger, and tomatoes.",
+          "Add turmeric and spices.",
+          "Break the cauliflower into florets and cut the potatoes into cubes.",
+          "Add both to masala and lower heat to simmer.",
+          "Cover the pot until the cauliflower and potatoes are cooked."
+        ]
+      },
+      {
+        "name": "Curried Eggplant (Bhartha)",
+        "ingredients": [
+          { "quantity": "2 lb", "ingredient": "Eggplant" },
+          { "quantity": "4 medium", "ingredient": "Tomatoes" },
+          { "quantity": "3 teaspoons", "ingredient": "Fresh chopped coriander" },
+          { "quantity": "1/2 cup", "ingredient": "Ghee" },
+          { "quantity": "1/2 cup", "ingredient": "Finely chopped onion" }
+        ],
+        "method": [
+          "Preheat oven to 450°F.",
+          "Bake the eggplants in the oven for 1 hour or until very tender.",
+          "While they are still warm, peel and crush the eggplants.",
+          "Heat oil and fry onions until soft and clear.",
+          "Add the tomatoes and fry for 2 minutes.",
+          "Add the eggplant and stir until almost all liquid disappears.",
+          "Place into a bowl, sprinkle on coriander and serve at once."
+        ]
+      },
+      {
+        "name": "Sambhar",
+        "ingredients": [
+          { "quantity": "1 cup", "ingredient": "Toor Dal" },
+          { "quantity": "1 teaspoon", "ingredient": "Tamarind" },
+          { "quantity": "3 teaspoons", "ingredient": "Salt" },
+          { "quantity": "pinch", "ingredient": "Turmeric" },
+          { "quantity": "2 teaspoons", "ingredient": "Channa Dal" },
+          { "quantity": "3 teaspoons", "ingredient": "Dhania seeds" },
+          { "quantity": "pinch", "ingredient": "Hing" },
+          { "quantity": "3", "ingredient": "Red chilies" },
+          { "quantity": "1/4 cup", "ingredient": "Grated coconut" },
+          { "quantity": "1 teaspoon", "ingredient": "Mustard" },
+          { "quantity": "10", "ingredient": "Coriander leaves" },
+          { "quantity": "1", "ingredient": "Green peppers" },
+          { "quantity": "1", "ingredient": "Onion" },
+          { "quantity": "1", "ingredient": "Tomato" }
+        ],
+        "method": [
+          "Boil the toor dal with 3 cups of water.",
+          "Fry channa dal, dhania seeds, hing, and red chilies.",
+          "Grind the mixture with water.",
+          "Fry the green pepper in oil for a few minutes.",
+          "Boil the tamarind paste, water, salt, turmeric, tomato, and vegetables.",
+          "Add the ground mixture and cook for 5 minutes.",
+          "Add boiled dal and bring it to a boil.",
+          "Fry the mustard seeds and onion. Add to the mixture."
+        ]
+      },
+      {
+        "name": "Masur Dal (Lentils)",
+        "ingredients": [
+          { "quantity": "1 cup", "ingredient": "Dal (Moong or Masur)" },
+          { "quantity": "3.5 cups", "ingredient": "Water" },
+          { "quantity": "to taste", "ingredient": "Salt" },
+          { "quantity": "to taste", "ingredient": "Pepper" },
+          { "quantity": "1/4 teaspoon", "ingredient": "Turmeric" },
+          { "quantity": "2 cloves", "ingredient": "Garlic" },
+          { "quantity": "1 inch", "ingredient": "Ginger" },
+          { "quantity": "1 small", "ingredient": "Onion" },
+          { "quantity": "2-3 tablespoons", "ingredient": "Ghee" },
+          { "quantity": "1 teaspoon", "ingredient": "Cumin seed" }
+        ],
+        "method": [
+          "Wash the dal and drain it.",
+          "Boil water and add the dal, salt, pepper, turmeric, chopped ginger, and garlic.",
+          "Cover and simmer for 20 minutes.",
+          "Heat the ghee, add the cumin, and fry until golden brown.",
+          "Add thinly sliced onions. Fry until crisp and brown."
+        ]
+      },
+      {
+        "name": "Mah Ki Dal (Whole Black Beans)",
+        "ingredients": [
+          { "quantity": "1 cup", "ingredient": "Urad or Mah dal" },
+          { "quantity": "1 inch", "ingredient": "Ginger" },
+          { "quantity": "12 cloves", "ingredient": "Garlic" },
+          { "quantity": "to taste", "ingredient": "Salt" },
+          { "quantity": "2-3 tablespoons", "ingredient": "Ghee" },
+          { "quantity": "to taste", "ingredient": "Green chili" },
+          { "quantity": "to taste", "ingredient": "Garam Masala" },
+          { "quantity": "1/4 teaspoon", "ingredient": "Turmeric" }
+        ],
+        "method": [
+          "Clean, wash, and add the dal to boiling water.",
+          "Add turmeric, salt, half of the finely chopped ginger, garlic, and cook.",
+          "Cook further in the same pan on low heat for half an hour.",
+          "Heat the ghee, add remaining ginger, stir, add sliced onions, chili, and fry until golden brown.",
+          "Add cumin or coriander (optional). Pour over dal just before serving."
+        ]
+      },
+      {
+        "name": "Red Kidney Beans (Rajma)",
+        "ingredients": [
+          { "quantity": "2 cups", "ingredient": "Red kidney beans" },
+          { "quantity": "3 quarts", "ingredient": "Water" },
+          { "quantity": "1 teaspoon", "ingredient": "Turmeric" },
+          { "quantity": "1 tablespoon", "ingredient": "Salt" },
+          { "quantity": "1/4 cup", "ingredient": "Oil" },
+          { "quantity": "1 cup", "ingredient": "Onion, chopped" },
+          { "quantity": "1 inch", "ingredient": "Ginger, chopped" },
+          { "quantity": "1 teaspoon", "ingredient": "Garam Masala" },
+          { "quantity": "3", "ingredient": "Chopped tomatoes" },
+          { "quantity": "to garnish", "ingredient": "Coriander leaves" }
+        ],
+        "method": [
+          "Wash beans and boil for 2-3 hours or half an hour in a pressure cooker.",
+          "Make masala of onions, garlic, ginger, and tomato.",
+          "Add to the beans and cook until most of the liquid dries up and the beans are soft.",
+          "Garnish with coriander leaves and serve."
+        ]
+      },
+      {
+        "name": "Curried Garbanzo Beans",
+        "ingredients": [
+          { "quantity": "8 oz", "ingredient": "Garbanzo beans" },
+          { "quantity": "to taste", "ingredient": "Green chili" },
+          { "quantity": "12 cloves", "ingredient": "Garlic" },
+          { "quantity": "2 inches", "ingredient": "Ginger" },
+          { "quantity": "to taste", "ingredient": "Pepper" },
+          { "quantity": "1 large", "ingredient": "Cardamom" },
+          { "quantity": "6", "ingredient": "Cloves" },
+          { "quantity": "1 inch", "ingredient": "Cinnamon stick" },
+          { "quantity": "to taste", "ingredient": "Salt" },
+          { "quantity": "to taste", "ingredient": "Paprika" },
+          { "quantity": "4 oz", "ingredient": "Oil" },
+          { "quantity": "to taste", "ingredient": "Mango powder" },
+          { "quantity": "3", "ingredient": "Onions" },
+          { "quantity": "to taste", "ingredient": "Dried pomegranate seeds" },
+          { "quantity": "4", "ingredient": "Tomatoes" }
+        ],
+        "method": [
+          "Clean, wash, and soak the beans overnight.",
+          "Boil them in the same water with salt, chopped onion, garlic, ginger, and cloves.",
+          "Simmer in a pan for an hour or until tender, or pressure cook for 7 minutes.",
+          "Heat oil. Fry thinly sliced onions and garlic. Cook until mixture browns and dries up.",
+          "Add chopped tomatoes and cook for 4-5 minutes more.",
+          "Add the beans and cook for 10 minutes more.",
+          "Add mango powder and pomegranate seeds, grated ginger, and simmer over low heat for 15-20 minutes.",
+          "Before serving, pour sizzling ghee over the beans."
+        ]
+      },
+      {
+        "name": "Onion and Tomato Raita",
+        "ingredients": [
+          { "quantity": "8 oz", "ingredient": "Yogurt (plain)" },
+          { "quantity": "1 small", "ingredient": "Onion" },
+          { "quantity": "1 small", "ingredient": "Tomato" },
+          { "quantity": "1/2 teaspoon", "ingredient": "Salt" },
+          { "quantity": "1/2 teaspoon", "ingredient": "Chat Masala (optional)" },
+          { "quantity": "1/2 teaspoon", "ingredient": "Black pepper (ground)" },
+          { "quantity": "1/4 cup", "ingredient": "Milk" }
+        ],
+        "method": [
+          "Beat yogurt and milk until smooth.",
+          "Chop the onion and tomato and add to the yogurt.",
+          "Add salt and pepper, and sprinkle the Chat Masala on top.",
+          "Serve chilled."
+        ]
+      },
+      {
+        "name": "Boondhi Raita",
+        "ingredients": [
+          { "quantity": "1/4 cup", "ingredient": "Besan (chickpea flour)" },
+          { "quantity": "1/2 cup", "ingredient": "Water" },
+          { "quantity": "as needed", "ingredient": "Ghee for frying" },
+          { "quantity": "to taste", "ingredient": "Salt" },
+          { "quantity": "to taste", "ingredient": "Pepper" },
+          { "quantity": "to taste", "ingredient": "Chat Masala" },
+          { "quantity": "1.5 cups", "ingredient": "Yogurt" },
+          { "quantity": "1/4 cup", "ingredient": "Milk" }
+        ],
+        "method": [
+          "Make a pouring paste of the besan and water.",
+          "Heat ghee and drop the paste into it through a slotted spoon to form small droplets (boondhi).",
+          "Fry the boondhi until golden brown and drain on a paper towel to remove excess oil.",
+          "Soak the boondhi in warm water.",
+          "Mix milk, salt, pepper, and Chat Masala into the yogurt.",
+          "Squeeze water out of the boondhi and add to the yogurt mixture.",
+          "Serve chilled."
+        ]
+      },
+      {
+        "name": "Mint and Coriander Chutney",
+        "ingredients": [
+          { "quantity": "1 bunch", "ingredient": "Coriander leaves" },
+          { "quantity": "1 bunch", "ingredient": "Mint leaves" },
+          { "quantity": "1", "ingredient": "Green chili" },
+          { "quantity": "1 oz", "ingredient": "Seedless tamarind" },
+          { "quantity": "1 teaspoon", "ingredient": "Salt" },
+          { "quantity": "4 tablespoons", "ingredient": "Water" },
+          { "quantity": "1 medium", "ingredient": "Onion" }
+        ],
+        "method": [
+          "Wash and soak tamarind in water for half an hour.",
+          "Clean, pick, and wash the coriander and mint leaves.",
+          "Extract the pulp from the tamarind and squeeze out the juice.",
+          "Grind coriander, mint, green chili, and onion into a fine paste.",
+          "Add the tamarind pulp and salt, and blend well.",
+          "Store in an airtight jar and refrigerate for up to one week."
+        ]
+      }
+    ]
+  }
+  

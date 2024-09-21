@@ -1,0 +1,203 @@
+{
+    "recipes": [
+      {
+        "name": "Kheer (Vermicelli Pudding)",
+        "ingredients": [
+          { "quantity": "1 cup", "ingredient": "Vermicelli" },
+          { "quantity": "4 cups", "ingredient": "Milk" },
+          { "quantity": "1 cup", "ingredient": "Sugar" },
+          { "quantity": "1/4 teaspoon", "ingredient": "Cardamom powder" },
+          { "quantity": "1 tablespoon", "ingredient": "Ghee" },
+          { "quantity": "2 tablespoons", "ingredient": "Chopped nuts (cashews, almonds)" },
+          { "quantity": "1 tablespoon", "ingredient": "Raisins" }
+        ],
+        "method": [
+          "Heat ghee in a pan and roast the vermicelli until golden brown.",
+          "In a separate pot, bring the milk to a boil.",
+          "Add the roasted vermicelli to the boiling milk and cook until it softens.",
+          "Add sugar and stir until it dissolves completely.",
+          "Add cardamom powder, nuts, and raisins.",
+          "Cook for a few more minutes until the mixture thickens slightly.",
+          "Serve warm or chilled."
+        ]
+      },
+      {
+        "name": "Rice Flour Pudding",
+        "ingredients": [
+          { "quantity": "1 cup", "ingredient": "Rice flour" },
+          { "quantity": "4 cups", "ingredient": "Milk" },
+          { "quantity": "1 cup", "ingredient": "Sugar" },
+          { "quantity": "1/4 teaspoon", "ingredient": "Cardamom powder" },
+          { "quantity": "2 tablespoons", "ingredient": "Chopped nuts" }
+        ],
+        "method": [
+          "Mix rice flour with a small amount of milk to make a smooth paste.",
+          "Boil the remaining milk in a pot.",
+          "Slowly add the rice flour paste to the boiling milk while stirring continuously.",
+          "Add sugar and stir until it dissolves.",
+          "Cook on low heat until the mixture thickens.",
+          "Add cardamom powder and chopped nuts.",
+          "Serve warm or cold."
+        ]
+      },
+      {
+        "name": "Besan Burfi",
+        "ingredients": [
+          { "quantity": "2 cups", "ingredient": "Besan (chickpea flour)" },
+          { "quantity": "1 cup", "ingredient": "Ghee" },
+          { "quantity": "1.5 cups", "ingredient": "Sugar" },
+          { "quantity": "1/2 cup", "ingredient": "Water" },
+          { "quantity": "1/4 teaspoon", "ingredient": "Cardamom powder" },
+          { "quantity": "2 tablespoons", "ingredient": "Chopped nuts (optional)" }
+        ],
+        "method": [
+          "Heat ghee in a pan and add the besan.",
+          "Roast the besan on low heat until it turns golden brown and aromatic.",
+          "In a separate pan, dissolve the sugar in water and bring it to a boil to make a syrup.",
+          "Add the sugar syrup to the roasted besan and mix well.",
+          "Cook for a few more minutes until the mixture thickens.",
+          "Add cardamom powder and chopped nuts.",
+          "Pour the mixture into a greased tray and let it set.",
+          "Cut into squares and serve."
+        ]
+      },
+      {
+        "name": "Kheer",
+        "ingredients": [
+          { "quantity": "1 cup", "ingredient": "Rice" },
+          { "quantity": "4 cups", "ingredient": "Milk" },
+          { "quantity": "1 cup", "ingredient": "Sugar" },
+          { "quantity": "1/4 teaspoon", "ingredient": "Cardamom powder" },
+          { "quantity": "2 tablespoons", "ingredient": "Chopped nuts" },
+          { "quantity": "1 tablespoon", "ingredient": "Raisins" }
+        ],
+        "method": [
+          "Wash the rice and soak it for 30 minutes.",
+          "In a pot, boil the milk and add the soaked rice.",
+          "Cook on low heat until the rice is soft and the mixture thickens.",
+          "Add sugar and stir until it dissolves.",
+          "Add cardamom powder, chopped nuts, and raisins.",
+          "Cook for a few more minutes until the kheer thickens.",
+          "Serve warm or chilled."
+        ]
+      },
+      {
+        "name": "Gulab Jamuns (Easy Method)",
+        "ingredients": [
+          { "quantity": "1 cup", "ingredient": "Milk powder" },
+          { "quantity": "1/4 cup", "ingredient": "All-purpose flour" },
+          { "quantity": "1/4 teaspoon", "ingredient": "Baking powder" },
+          { "quantity": "2 tablespoons", "ingredient": "Ghee" },
+          { "quantity": "Milk", "ingredient": "as needed to make the dough" },
+          { "quantity": "1.5 cups", "ingredient": "Sugar" },
+          { "quantity": "1 cup", "ingredient": "Water" },
+          { "quantity": "Oil", "ingredient": "for deep frying" },
+          { "quantity": "1/4 teaspoon", "ingredient": "Cardamom powder" }
+        ],
+        "method": [
+          "Mix milk powder, flour, baking powder, and ghee. Add milk to form a soft dough.",
+          "Divide the dough into small balls and set aside.",
+          "In a pan, dissolve sugar in water and bring it to a boil to make the syrup.",
+          "Heat oil in a pan and deep fry the balls on low heat until golden brown.",
+          "Soak the fried balls in the warm sugar syrup.",
+          "Add cardamom powder to the syrup.",
+          "Serve warm."
+        ]
+      },
+      {
+        "name": "Suji Halva (Semolina Halva)",
+        "ingredients": [
+          { "quantity": "1 cup", "ingredient": "Semolina (Suji)" },
+          { "quantity": "1/2 cup", "ingredient": "Ghee" },
+          { "quantity": "1 cup", "ingredient": "Sugar" },
+          { "quantity": "2 cups", "ingredient": "Water" },
+          { "quantity": "1/4 teaspoon", "ingredient": "Cardamom powder" },
+          { "quantity": "2 tablespoons", "ingredient": "Chopped nuts" },
+          { "quantity": "1 tablespoon", "ingredient": "Raisins" }
+        ],
+        "method": [
+          "Heat ghee in a pan and roast the semolina until golden brown.",
+          "In another pot, boil water and sugar together to make a syrup.",
+          "Gradually add the sugar syrup to the roasted semolina while stirring continuously.",
+          "Cook until the mixture thickens and leaves the sides of the pan.",
+          "Add cardamom powder, chopped nuts, and raisins.",
+          "Mix well and serve warm."
+        ]
+      },
+      {
+        "name": "Sewian (Vermicelli)",
+        "ingredients": [
+          { "quantity": "1 cup", "ingredient": "Vermicelli" },
+          { "quantity": "2 tablespoons", "ingredient": "Ghee" },
+          { "quantity": "4 cups", "ingredient": "Milk" },
+          { "quantity": "1/2 cup", "ingredient": "Sugar" },
+          { "quantity": "1/4 teaspoon", "ingredient": "Cardamom powder" },
+          { "quantity": "2 tablespoons", "ingredient": "Chopped nuts" },
+          { "quantity": "1 tablespoon", "ingredient": "Raisins" }
+        ],
+        "method": [
+          "Heat ghee in a pan and roast the vermicelli until golden brown.",
+          "Add milk and bring to a boil.",
+          "Cook on low heat until the vermicelli is soft.",
+          "Add sugar and stir until it dissolves.",
+          "Add cardamom powder, chopped nuts, and raisins.",
+          "Cook for a few more minutes.",
+          "Serve warm or chilled."
+        ]
+      },
+      {
+        "name": "Carrot Halva",
+        "ingredients": [
+          { "quantity": "4 cups", "ingredient": "Grated carrots" },
+          { "quantity": "2 cups", "ingredient": "Milk" },
+          { "quantity": "1 cup", "ingredient": "Sugar" },
+          { "quantity": "1/4 cup", "ingredient": "Ghee" },
+          { "quantity": "1/4 teaspoon", "ingredient": "Cardamom powder" },
+          { "quantity": "2 tablespoons", "ingredient": "Chopped nuts" },
+          { "quantity": "1 tablespoon", "ingredient": "Raisins" }
+        ],
+        "method": [
+          "Heat ghee in a pan and add the grated carrots.",
+          "Cook on medium heat until the carrots are soft.",
+          "Add milk and cook until the mixture thickens and the milk is absorbed.",
+          "Add sugar and stir until it dissolves.",
+          "Add cardamom powder, chopped nuts, and raisins.",
+          "Cook until the mixture leaves the sides of the pan.",
+          "Serve warm."
+        ]
+      },
+      {
+        "name": "Rasgoola",
+        "ingredients": [
+          { "quantity": "1 liter", "ingredient": "Milk" },
+          { "quantity": "2 tablespoons", "ingredient": "Lemon juice" },
+          { "quantity": "1 cup", "ingredient": "Sugar" },
+          { "quantity": "4 cups", "ingredient": "Water" }
+        ],
+        "method": [
+          "Boil the milk and add lemon juice to curdle it.",
+          "Strain the curdled milk through a muslin cloth to separate the whey.",
+          "Knead the resulting paneer until smooth.",
+          "Form small balls from the kneaded paneer.",
+          "In a pan, dissolve sugar in water and bring to a boil.",
+          "Add the paneer balls to the boiling syrup and cook on low heat for 10-15 minutes.",
+          "Serve the rasgoolas in the syrup once cooled."
+        ]
+      },
+      {
+        "name": "Mango Ice Cream",
+        "ingredients": [
+          { "quantity": "2 cups", "ingredient": "Mango puree" },
+          { "quantity": "1 cup", "ingredient": "Heavy cream" },
+          { "quantity": "1 cup", "ingredient": "Condensed milk" }
+        ],
+        "method": [
+          "In a bowl, mix the mango puree, heavy cream, and condensed milk until smooth.",
+          "Pour the mixture into an ice cream maker and churn according to the manufacturer's instructions.",
+          "Alternatively, pour the mixture into a container and freeze for 4-6 hours, stirring every hour to break up ice crystals.",
+          "Serve the mango ice cream cold."
+        ]
+      }
+    ]
+  }
+  

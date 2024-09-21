@@ -1,0 +1,152 @@
+{
+    "smoothies": {
+      "spirulina_smoothies": [
+        {
+          "name": "Green Spirulina Smoothie",
+          "ingredients": [
+            { "quantity": "1 cup", "item": "Spinach" },
+            { "quantity": "1 cup", "item": "Almond milk" },
+            { "quantity": "1", "item": "Banana" },
+            { "quantity": "1/2 cup", "item": "Pineapple chunks" },
+            { "quantity": "1 teaspoon", "item": "Spirulina powder" },
+            { "quantity": "1 tablespoon", "item": "Chia seeds" },
+            { "quantity": "1/2 cup", "item": "Ice cubes" }
+          ],
+          "method": [
+            "Add all ingredients to a blender.",
+            "Blend on high until smooth and creamy.",
+            "Serve immediately."
+          ]
+        },
+        {
+          "name": "Spirulina Tropical Smoothie",
+          "ingredients": [
+            { "quantity": "1 cup", "item": "Coconut water" },
+            { "quantity": "1", "item": "Mango, chopped" },
+            { "quantity": "1", "item": "Banana" },
+            { "quantity": "1 teaspoon", "item": "Spirulina powder" },
+            { "quantity": "1/2 cup", "item": "Pineapple chunks" },
+            { "quantity": "1/2 cup", "item": "Ice cubes" }
+          ],
+          "method": [
+            "Combine all ingredients in a blender.",
+            "Blend until smooth.",
+            "Pour into a glass and enjoy."
+          ]
+        },
+        {
+          "name": "Spirulina Berry Smoothie",
+          "ingredients": [
+            { "quantity": "1 cup", "item": "Mixed berries" },
+            { "quantity": "1 cup", "item": "Almond milk" },
+            { "quantity": "1", "item": "Banana" },
+            { "quantity": "1 teaspoon", "item": "Spirulina powder" },
+            { "quantity": "1 tablespoon", "item": "Flax seeds" },
+            { "quantity": "1/2 cup", "item": "Ice cubes" }
+          ],
+          "method": [
+            "Place all ingredients in a blender.",
+            "Blend until smooth and creamy.",
+            "Serve chilled."
+          ]
+        },
+        {
+          "name": "Spirulina Protein Smoothie",
+          "ingredients": [
+            { "quantity": "1 cup", "item": "Coconut milk" },
+            { "quantity": "1 scoop", "item": "Vanilla protein powder" },
+            { "quantity": "1 teaspoon", "item": "Spirulina powder" },
+            { "quantity": "1", "item": "Banana" },
+            { "quantity": "1 tablespoon", "item": "Peanut butter" },
+            { "quantity": "1/2 cup", "item": "Ice cubes" }
+          ],
+          "method": [
+            "Add all ingredients to a blender.",
+            "Blend until smooth.",
+            "Pour into a glass and drink immediately."
+          ]
+        }
+      ],
+      "smoothie_recipes": [
+        {
+          "name": "Apple Smoothie",
+          "ingredients": [
+            { "quantity": "2 cups", "item": "Apple sauce" },
+            { "quantity": "1 cup", "item": "Apple cider" },
+            { "quantity": "1 cup", "item": "Orange juice" },
+            { "quantity": "2 tablespoons", "item": "Vermont maple syrup" },
+            { "quantity": "1/2 teaspoon", "item": "Nutmeg" },
+            { "quantity": "1/2 teaspoon", "item": "Cinnamon" }
+          ],
+          "method": [
+            "Combine all ingredients in a blender.",
+            "Blend until smooth.",
+            "Pour into glasses and serve."
+          ]
+        },
+        {
+          "name": "Apple Apricot Smoothie",
+          "ingredients": [
+            { "quantity": "1", "item": "Golden Delicious apple, peeled, cored, and chopped" },
+            { "quantity": "1 cup", "item": "Apple juice" },
+            { "quantity": "4", "item": "Apricots, fresh, pitted" },
+            { "quantity": "1", "item": "Banana, peeled" },
+            { "quantity": "3/4 cup", "item": "Plain or vanilla nonfat yogurt" },
+            { "quantity": "10 to 12", "item": "Ice cubes" },
+            { "quantity": "1 tablespoon", "item": "Honey" }
+          ],
+          "method": [
+            "Place all ingredients in a blender.",
+            "Puree until smooth."
+          ]
+        },
+        {
+          "name": "Apple Banana Soy Smoothie",
+          "ingredients": [
+            { "quantity": "2", "item": "Ripe bananas, peeled and halved" },
+            { "quantity": "2", "item": "Apples, peeled, cored, and quartered" },
+            { "quantity": "300ml", "item": "Nonfat yogurt" },
+            { "quantity": "2 tablespoons", "item": "Sugar" },
+            { "quantity": "400ml", "item": "Organic soya milk" }
+          ],
+          "method": [
+            "Put all ingredients in a blender.",
+            "Purée for 1 minute."
+          ]
+        },
+        {
+          "name": "Apple Berry Smoothie",
+          "ingredients": [
+            { "quantity": "1/2 cup", "item": "Orange juice" },
+            { "quantity": "1 cup", "item": "Fresh apple cider" },
+            { "quantity": "4 to 6", "item": "Strawberries with stem left on" },
+            { "quantity": "1", "item": "Frozen banana" },
+            { "quantity": "1 cup", "item": "Yogurt (sugar & fat-free flavored)" },
+            { "quantity": "1/4 cup", "item": "Almonds" },
+            { "quantity": "2 tablespoons", "item": "Wheat germ" }
+          ],
+          "method": [
+            "Blend until a smooth consistency.",
+            "This makes enough for 3 servings."
+          ]
+        },
+        {
+          "name": "Banana Berry Smoothie",
+          "ingredients": [
+            { "quantity": "2", "item": "Bananas" },
+            { "quantity": "1/2 cup", "item": "Blueberries" },
+            { "quantity": "1 cup", "item": "Plain yogurt" }
+          ],
+          "method": [
+            "Peel bananas, slice and place on a cookie sheet.",
+            "Put in freezer and freeze until solid.",
+            "Remove from freezer and place in blender.",
+            "Add blueberries and yogurt.",
+            "Blend until smooth.",
+            "Pour into glass and serve."
+          ]
+        }
+      ]
+    }
+  }
+  

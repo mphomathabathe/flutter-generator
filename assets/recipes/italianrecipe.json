@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Antipasto",
+    "ingredients": [
+      { "name": "Genoa salami", "quantity": "1/2", "unit": "Pound" },
+      { "name": "slicing tomato", "quantity": "1", "unit": "" },
+      { "name": "large white onion", "quantity": "1", "unit": "" },
+      { "name": "roasted red bell peppers", "quantity": "2", "unit": "" },
+      { "name": "provolone", "quantity": "1", "unit": "Pound" },
+      { "name": "black pitted olives", "quantity": "2", "unit": "cans" },
+      { "name": "baby corn on the cob", "quantity": "1", "unit": "can" },
+      { "name": "Pepperoncini peppers", "quantity": "1", "unit": "small jar" },
+      { "name": "celery stalks", "quantity": "2", "unit": "" },
+      { "name": "rolled anchovies", "quantity": "1", "unit": "can" },
+      { "name": "extra virgin olive oil", "quantity": "", "unit": "" }
+    ],
+    "instructions": [
+      "Use a long platter, and arrange salami, provolone, tomato, onion, red peppers, and anchovies.",
+      "Put the baby corns and olives in the center of the tray.",
+      "Cut celery sticks and arrange them between each antipasti.",
+      "Sprinkle some salt lightly on everything.",
+      "Drizzle olive oil on everything.",
+      "Cover and refrigerate until ready to serve."
+    ]
+  },
+  {
+    "name": "Basic Polenta",
+    "ingredients": [
+      { "name": "Water", "quantity": "9", "unit": "Cups" },
+      { "name": "Salt", "quantity": "1", "unit": "Teaspoon" },
+      { "name": "Cornmeal", "quantity": "3", "unit": "Cups" }
+    ],
+    "instructions": [
+      "Bring water to a boil in a large pot. Add salt and reduce heat to a simmer.",
+      "Add cornmeal slowly to avoid lumps, stirring constantly.",
+      "Cook, stirring constantly, for 20 to 30 minutes until thick.",
+      "Pour polenta onto a large board and smooth out evenly.",
+      "Let cool and solidify. Cut into slices and serve."
+    ]
+  },
+  {
+    "name": "Tomato Bruschetta",
+    "ingredients": [
+      { "name": "Italian bread", "quantity": "1", "unit": "Loaf" },
+      { "name": "Garlic clove", "quantity": "1", "unit": "" },
+      { "name": "Olive oil", "quantity": "2", "unit": "Tablespoons" },
+      { "name": "Large Tomatoes", "quantity": "2", "unit": "" },
+      { "name": "Salt", "quantity": "1/4", "unit": "Teaspoon" },
+      { "name": "Pepper", "quantity": "1/4", "unit": "Teaspoon" },
+      { "name": "Chopped fresh basil", "quantity": "1/2", "unit": "Cup" }
+    ],
+    "instructions": [
+      "Toast the bread under the broiler until lightly browned.",
+      "Combine garlic and olive oil and brush over one side of the bread.",
+      "Spread tomatoes over the bread.",
+      "Sprinkle with salt and pepper.",
+      "Broil for about 30 seconds to heat the tomatoes.",
+      "Sprinkle with basil and serve."
+    ]
+  },
+  {
+    "name": "Fettucini Romano Ala Fratelli",
+    "ingredients": [
+      { "name": "Olive oil", "quantity": "1", "unit": "Tablespoon" },
+      { "name": "Garlic cloves", "quantity": "3", "unit": "" },
+      { "name": "White wine", "quantity": "1/2", "unit": "Cup" },
+      { "name": "Half-and-half", "quantity": "3/4", "unit": "Cup" },
+      { "name": "Romano cheese", "quantity": "1", "unit": "Cup" },
+      { "name": "Dry spinach fettucini", "quantity": "1", "unit": "Pound" },
+      { "name": "Chopped parsley", "quantity": "", "unit": "for garnish" }
+    ],
+    "instructions": [
+      "Add olive oil to a hot pan. Add garlic and sauté over high heat for about 1 minute.",
+      "Add wine and simmer for about 2 minutes.",
+      "Add half-and-half and bring back to a simmer.",
+      "Add Romano cheese and stir until smooth.",
+      "Add the pasta to the pan and toss until coated.",
+      "Garnish with chopped parsley and serve."
+    ]
+  },
+  {
+    "name": "Calamari Imbottiti",
+    "ingredients": [
+      { "name": "Small squid", "quantity": "8", "unit": "" },
+      { "name": "Small onion", "quantity": "1", "unit": "" },
+      { "name": "Raisins", "quantity": "2", "unit": "Tablespoons" },
+      { "name": "Bread crumbs", "quantity": "1 1/2", "unit": "Cups" },
+      { "name": "Minced parsley", "quantity": "1", "unit": "Teaspoon" },
+      { "name": "Grated Parmesan cheese", "quantity": "2", "unit": "Tablespoons" },
+      { "name": "Salt", "quantity": "", "unit": "to taste" },
+      { "name": "Pepper", "quantity": "", "unit": "to taste" },
+      { "name": "Egg", "quantity": "1", "unit": "" },
+      { "name": "Tomatoes", "quantity": "1 #2", "unit": "can" },
+      { "name": "Olive oil", "quantity": "4", "unit": "Tablespoons" },
+      { "name": "Garlic", "quantity": "1", "unit": "clove" }
+    ],
+    "instructions": [
+      "Clean squid, remove eyes, outside skin, and intestines.",
+      "Combine onion, raisins, bread crumbs, parsley, Parmesan cheese, salt, and pepper.",
+      "Fill the cavity of each squid with the stuffing and secure with toothpicks.",
+      "Prepare the sauce: brown garlic in oil, mash tomatoes, and add. Simmer for 10 minutes.",
+      "Place squid in baking dish, cover with sauce, and bake at 400°F for 35 minutes."
+    ]
+  },
+  {
+    "name": "Focaccia Versiliese",
+    "ingredients": [
+      { "name": "Dried yeast", "quantity": "2", "unit": "Teaspoon" },
+      { "name": "Warm water", "quantity": "1", "unit": "Cup" },
+      { "name": "Olive oil", "quantity": "1", "unit": "Tablespoon" },
+      { "name": "Chopped rosemary", "quantity": "1", "unit": "Tablespoon" },
+      { "name": "Sage leaves", "quantity": "4", "unit": "" },
+      { "name": "Pitted olives", "quantity": "3 1/2", "unit": "Ounces" },
+      { "name": "Minced garlic", "quantity": "2", "unit": "Tablespoons" },
+      { "name": "Unbleached all-purpose flour", "quantity": "2", "unit": "Cups" },
+      { "name": "Corn flour", "quantity": "1", "unit": "Cup" },
+      { "name": "Salt", "quantity": "2", "unit": "Teaspoons" },
+      { "name": "Extra olive oil", "quantity": "2", "unit": "Teaspoons" }
+    ],
+    "instructions": [
+      "Stir yeast into warm water and let proof for 10 minutes.",
+      "Stir in olive oil, rosemary, sage, olives, and garlic.",
+      "Mix in flours and salt to form a thick dough.",
+      "Knead for 8 to 10 minutes, then let rise until doubled.",
+      "Stretch the dough into an oiled baking pan and let half-rise for 30 minutes.",
+      "Dimple the top, sprinkle with salt and olive oil, and bake at 400°F for 25 to 30 minutes."
+    ]
+  },
+  {
+    "name": "Eggplant Parmigiana",
+    "ingredients": [
+      { "name": "Small Eggplants", "quantity": "2", "unit": "" },
+      { "name": "Eggs", "quantity": "2", "unit": "" },
+      { "name": "Bread crumbs", "quantity": "1 1/2", "unit": "Cups" },
+      { "name": "Salt", "quantity": "1/2", "unit": "Teaspoon" },
+      { "name": "Pepper", "quantity": "1/8", "unit": "Teaspoon" },
+      { "name": "Grated Parmesan cheese", "quantity": "1", "unit": "Cup" },
+      { "name": "Mozzarella cheese", "quantity": "1/2", "unit": "Pound" }
+  ],
+  "instructions": [
+    "Dip eggplant slices in eggs, then in bread crumbs seasoned with salt and pepper.",
+    "Refrigerate for 20 minutes.",
+    "In a large saucepan, sauté garlic in 2 tablespoons oil for 1-2 minutes.",
+    "Remove garlic and add tomatoes, tomato paste, basil, salt, and pepper.",
+    "Cover and simmer for 30 minutes.",
+    "Preheat oven to 350°F.",
+    "Brown eggplant in 1/4-inch oil in a large skillet.",
+    "Drain on paper towels.",
+    "Put a thin layer of tomato sauce into a baking dish and layer eggplant, sauce, Parmesan, and mozzarella alternately.",
+    "End with mozzarella on top.",
+    "Bake, uncovered, for 30 minutes."
+  ]
+}
+
+]

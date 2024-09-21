@@ -1,0 +1,146 @@
+{
+    "recipes": [
+      {
+        "country": "Australia",
+        "name": "Lamb Shank Pie",
+        "ingredients": [
+          { "quantity": "4-6", "item": "Lamb shanks (chopped in half)" },
+          { "quantity": "1", "item": "Large carrot" },
+          { "quantity": "1", "item": "Parsnip" },
+          { "quantity": "2", "item": "Tomatoes" },
+          { "quantity": "6 oz", "item": "Veal/chicken stock" },
+          { "quantity": "2 tablespoons", "item": "Tomato paste" },
+          { "quantity": "1", "item": "Juice and grated rind of 1 lemon" },
+          { "quantity": "Pinch", "item": "Sugar" },
+          { "quantity": "2 tablespoons", "item": "Parsley" },
+          { "quantity": "2 tablespoons", "item": "Chopped garlic" },
+          { "quantity": "1 tablespoon", "item": "Butter" },
+          { "quantity": "1 tablespoon", "item": "Vegetable oil" },
+          { "quantity": "To taste", "item": "Seasoned flour (for dusting)" },
+          { "quantity": "1", "item": "Onion" },
+          { "quantity": "1 stick", "item": "Celery" },
+          { "quantity": "1 cup", "item": "Red wine" },
+          { "quantity": "2 tablespoons", "item": "Basil" },
+          { "quantity": "2 cups", "item": "Mashed potatoes" }
+        ],
+        "method": [
+          "Dust the shanks in flour and brown them in butter and oil in a heavy skillet.",
+          "Put the shanks in a saucepan, cover with water, wine, and tomato paste, and cook gently for about 90 minutes.",
+          "Sauté the vegetables with garlic in the same frying pan.",
+          "Add the tomatoes, lemon juice, and rind. Cook gently for another few minutes.",
+          "Transfer the lamb shanks into a casserole dish, add the vegetables, and spoon mashed potatoes on top.",
+          "Finish cooking in a preheated 190°C oven for 30 minutes.",
+          "Serve with crusty bread."
+        ]
+      },
+      {
+        "country": "Australia",
+        "name": "Fluffy Pikelets",
+        "ingredients": [
+          { "quantity": "1 cup", "item": "Self-raising flour" },
+          { "quantity": "2 tablespoons", "item": "Sugar" },
+          { "quantity": "1 teaspoon", "item": "Melted butter" },
+          { "quantity": "1/2 cup", "item": "Milk" },
+          { "quantity": "1/2 teaspoon", "item": "Baking soda" },
+          { "quantity": "1 teaspoon", "item": "Vinegar or lemon juice" },
+          { "quantity": "1", "item": "Egg" },
+          { "quantity": "Pinch", "item": "Salt" }
+        ],
+        "method": [
+          "Sift flour, salt, and baking soda into a bowl.",
+          "Add sugar, egg, and milk. Beat on low speed until mixed.",
+          "Fold in melted butter. Place spoonfuls of the mixture onto a hot griddle or frypan."
+        ]
+      },
+      {
+        "country": "Barbados",
+        "name": "Barbadian Cake",
+        "ingredients": [
+          { "quantity": "1 1/2 cups", "item": "White sugar" },
+          { "quantity": "2 cups", "item": "Butter" },
+          { "quantity": "4 1/2 teaspoons", "item": "Baking powder" },
+          { "quantity": "3 cups", "item": "All-purpose flour" },
+          { "quantity": "4", "item": "Eggs" },
+          { "quantity": "1 tablespoon", "item": "Vanilla extract" },
+          { "quantity": "1 tablespoon", "item": "Almond extract" },
+          { "quantity": "2 cups", "item": "Milk" }
+        ],
+        "method": [
+          "Preheat oven to 400°F. Grease and flour a 9 or 10 inch bundt pan.",
+          "Cream butter and sugar together until light and fluffy. Add eggs and beat well.",
+          "Sift flour and baking powder together. Add to butter mixture with 1 cup of milk. Beat well.",
+          "Add remaining milk, vanilla, and almond extracts. Pour batter into the prepared pan.",
+          "Bake at 400°F for 1 hour, then reduce heat to 350°F and bake for another 15 minutes."
+        ]
+      },
+      {
+        "country": "Belgium",
+        "name": "Waterzooi A La Gantoise",
+        "ingredients": [
+          { "quantity": "3 lb", "item": "Stewing chicken" },
+          { "quantity": "1/2 lb", "item": "Stew beef, cubed" },
+          { "quantity": "2", "item": "Onions, wedged" },
+          { "quantity": "1", "item": "Celery stalk, chopped" },
+          { "quantity": "2", "item": "Leeks (white part only), chopped" },
+          { "quantity": "1", "item": "Carrot, quartered lengthwise" },
+          { "quantity": "1 teaspoon", "item": "Salt" },
+          { "quantity": "2", "item": "Egg yolks" },
+          { "quantity": "6 tablespoons", "item": "Half and half" },
+          { "quantity": "1/8 teaspoon", "item": "White pepper" },
+          { "quantity": "Juice of 1/2", "item": "Lemon" }
+        ],
+        "method": [
+          "Cut the chicken into four pieces and place in a pot with the stew beef. Cover with water and bring to a boil.",
+          "Skim the foam, add onions, celery, leeks, carrot, and salt. Simmer for 2 hours.",
+          "Remove the beef, skin, and bones from the chicken. Strain the cooking liquid and reduce it to about 1 quart.",
+          "Beat the egg yolks with half and half and pepper. Stir in cooking liquid and lemon juice.",
+          "Add the chicken pieces and heat through. Serve immediately."
+        ]
+      },
+      {
+        "country": "Bolivia",
+        "name": "Palta Rellenos",
+        "ingredients": [
+          { "quantity": "4 oz", "item": "Shrimp, peeled and cooked" },
+          { "quantity": "2", "item": "Avocados" },
+          { "quantity": "1/2", "item": "Banana" },
+          { "quantity": "2 teaspoons", "item": "Lemon juice" },
+          { "quantity": "1/4 cup", "item": "Mayonnaise" },
+          { "quantity": "1 tablespoon", "item": "Half and half" },
+          { "quantity": "To taste", "item": "Salt and black pepper" },
+          { "quantity": "1 pinch", "item": "Paprika" },
+          { "quantity": "1 pinch", "item": "Sugar" },
+          { "quantity": "1 1/2 cups", "item": "Cooked chicken, diced" },
+          { "quantity": "6 leaves", "item": "Lettuce, shredded" }
+        ],
+        "method": [
+          "If using frozen shrimp, thaw completely. Cut avocados in half and remove the stones.",
+          "Use a melon baller to scoop out the avocado flesh. Reserve skins and 4 avocado balls.",
+          "Dice the remaining avocado and banana. Sprinkle with lemon juice.",
+          "Combine mayonnaise, half and half, salt, sugar, pepper, and paprika.",
+          "Fold in the banana mixture, chicken, and lettuce.",
+          "Spoon the mixture into the reserved avocado skins and top with shrimp and avocado balls."
+        ]
+      },
+      {
+        "country": "Bulgaria",
+        "name": "Tarator",
+        "ingredients": [
+          { "quantity": "2", "item": "Cucumbers, peeled and chopped" },
+          { "quantity": "1", "item": "Garlic clove, minced" },
+          { "quantity": "4 cups", "item": "Plain yogurt" },
+          { "quantity": "1/2 cup", "item": "Water" },
+          { "quantity": "1/4 teaspoon", "item": "Salt" },
+          { "quantity": "2 tablespoons", "item": "Dill, chopped" },
+          { "quantity": "To garnish", "item": "Toasted almond slices" }
+        ],
+        "method": [
+          "In a blender, puree cucumber and garlic.",
+          "Add the dill, salt, water, and yogurt and mix well.",
+          "Refrigerate for at least 2 hours.",
+          "When ready to serve, ladle into bowls and sprinkle with toasted almonds."
+        ]
+      }
+    ]
+  }
+  
